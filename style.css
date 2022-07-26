@@ -1,0 +1,113 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 150px;
+    text-align: center;
+
+
+}
+
+.space {
+    line-height: 2.5;
+
+}
+
+.size {
+    font-size: 70px;
+    text-align: center;
+}
+
+h2 {
+    display: inline;
+    margin: 1%;
+    padding: 40px;
+    background-color: seashell;
+}
+
+.Border {
+    border: 5px solid tomato;
+}
+
+.color {
+    color: white;
+}
+
+.top-banner {
+    background-image: url(images/donation12.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    padding-top: 5%;
+    background-size: cover;
+
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, crimson);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    line-height: 5;
+
+}
+
+.line {
+    width: 100%;
+}
+
+section {
+    display: flex;
+}
+
+#Food {
+    background-color: burlywood;
+    text-align: left;
+    font-size: 22px;
+    padding-left: 3%;
+    padding-top: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-sizing: content-box;
+
+}
+
+#Shelter {
+    background-color: aquamarine;
+    text-align: left;
+    font-size: 22px;
+    padding-left: 3%;
+    padding-top: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-sizing: content-box;
+}
+
+#Education {
+    background-color: cyan;
+    text-align: left;
+    font-size: 22px;
+    padding-left: 3%;
+    padding-top: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-sizing: content-box;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.foot {
+    color: coral
+}
+
+.font {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
