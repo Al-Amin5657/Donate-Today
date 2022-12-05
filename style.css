@@ -119,6 +119,10 @@ section {
     box-sizing: content-box;
 }
 
+.update {
+    margin-top: 60px;
+}
+
 .email-background {
     background-color: antiquewhite;
     height: 150px;
