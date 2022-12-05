@@ -6,15 +6,35 @@ body {
 
 }
 
-.space {
+/* .space {
     line-height: 2.5;
 
-}
+} */
 
 .size {
     font-size: 70px;
     text-align: center;
 }
+
+.detail {
+    margin-bottom: 80px;
+}
+
+.amount {
+    margin-top: 50px;
+}
+
+.other {
+    margin-top: 80px;
+}
+
+.br {
+    border: 0.5px solid gray;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
 
 h2 {
     display: inline;
@@ -57,6 +77,10 @@ h2 {
     width: 100%;
 }
 
+.donate-plan {
+    margin-bottom: 50px;
+}
+
 section {
     display: flex;
 }
@@ -95,12 +119,43 @@ section {
     box-sizing: content-box;
 }
 
+.email-background {
+    background-color: antiquewhite;
+    height: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 40px;
+}
+
+.email-field {
+    background-color: aliceblue;
+    margin-top: 60px;
+    width: 200px;
+    height: 30px;
+
+
+}
+
+.btn {
+    background-color: crimson;
+    width: 100px;
+    height: 36px;
+    color: white;
+}
+
+/* .inp-btn {
+    border-radius: 15px;
+
+} */
+
 footer {
-    text-align: center;
+    /* text-align: center; */
     background-color: black;
     color: white;
     padding-top: 15px;
     padding-bottom: 15px;
+    margin-bottom: 0px;
+    width: 100%;
 
 }
 
